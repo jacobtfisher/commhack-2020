@@ -4,4 +4,6 @@
 
 [Sponsorship Google Sheet](https://docs.google.com/spreadsheets/d/1wKHNsO8NvzobQZQxOHVNgcd0cfUlzzr3NlxKGT2bqyI/edit?usp=sharing)
 
+[Schedule Google Sheet](https://docs.google.com/spreadsheets/d/1iwD3E-IZQLfG_hYpKgruCW-tZ7O3P1vBstWmHqdXUCM/edit?usp=sharing)
+
 [![](https://www.google.com/s2/favicons?domain=slack.com)](https://join.slack.com/t/commhack2020/shared_invite/enQtNzQyMzA3OTI5MjU0LTdkY2ZiOGZiNGZiYTg1YjcyYTAwYTU1OTlhNjY5N2RjZWU1NGY3YzIzMzMxNjM4NTk3YTk5Y2JhODUzMDliNmM) [Slack](https://join.slack.com/t/commhack2020/shared_invite/enQtNzQyMzA3OTI5MjU0LTdkY2ZiOGZiNGZiYTg1YjcyYTAwYTU1OTlhNjY5N2RjZWU1NGY3YzIzMzMxNjM4NTk3YTk5Y2JhODUzMDliNmM)
