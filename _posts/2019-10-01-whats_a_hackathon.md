@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: posts
 title:  "What's a Hackathon?"
 date:   2019-10-01 12:00:00 -0400
 categories: 
 ---
-
-# What is a Hackathon?
 
 Advancing open research practices in communication is contingent upon sharing tools, ideas, skills, and data across a disparate collection of sub-fields. Although conferences and workshops are undoubtedly beneficial for pursuing these goals, they rarely afford the unstructured time and hands-on collaboration required to fully realize their potential for catalyzing open research practices. We believe that a potential solution to this problem is a **hackathon**.
 
