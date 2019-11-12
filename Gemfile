@@ -1,3 +1,3 @@
-gem 'jekyll-seo-tag'
 source "https://rubygems.org"
+gem 'jekyll-seo-tag'
 gemspec
