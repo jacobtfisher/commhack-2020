@@ -27,8 +27,6 @@ phone:
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-seo-tag
 
 # Layout settings
 home-link-in-menu: yes
