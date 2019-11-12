@@ -9,4 +9,4 @@ Advancing open research practices in communication is contingent upon sharing to
 
 During a hackathon, participants self-organize and work together to learn new skills and solve problems of their choosing while engaging in discussions about coding, big data ethics, and reproducible research practices. Hackathons provide a collaborative, low-risk opportunity to experiment with new ideas, find potential collaborators, and to try something a little “out of the box.” For this reason, hackathons are organized quite differently from a traditional preconference or conference session. Instead of audience members passively listening to a series of talks on a subject, they will actively participate in (and perhaps even organize!) projects of their choosing. 
 
-Need to add more here...
+Hackathons do **not** require extensive knowledge of computational skills. In fact, projects are often centered around learning and developing resources for beginners. We encourage everyone to participate,even (or especially!) if you have little to no coding knowledge. 
