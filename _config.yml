@@ -27,7 +27,7 @@ phone:
 
 # Build settings
 markdown: kramdown
-plugins:
+gems:
   - jekyll-seo-tag
 
 # Layout settings
