@@ -25,7 +25,7 @@ During a hackathon, participants self-organize and work together to learn new sk
 
 On the first day of the hackathon, organizers and attendees will propose a collection of projects that can be reasonably tackled during the hackathon. Everyone will select the project that they wish to work on, and will spend the rest of the time collaborating with their project team to accomplish their desired goals. At the same time, a collection of breakout sessions will serve as a more formal means of sharing knowledge and increasing skills. If you have an idea for a project or breakout session for the hackathon, please <a href ="mailto:hackingcommsci@gmail.com">reach out to the organizing committee</a>. 
 
-Hackathons do **not** require extensive knowledge of computational skills. In fact, projects are often centered around learning and developing resources for beginners. We encourage everyone to participate, even (or especially!) if you have little to no coding knowledge. 
+Hackathons do **not** require existing knowledge of computational skills. In fact, projects are often centered around learning and developing resources for beginners. We encourage everyone to participate, even (or especially!) if you have little to no coding knowledge. 
 
 -----
 
