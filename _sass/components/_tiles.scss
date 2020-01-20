@@ -29,14 +29,14 @@
 				@include vendor('transition', 'transform #{$duration} #{$ease}');
 				position: relative;
 				display: block;
-				width: 100%;
+				height: 100%;
 				border-radius: _size(border-radius);
 				overflow: hidden;
 
 				img {
 					display: block;
-					width: 100%;
 					height: 100%;
+					object-fit: cover;
 				}
 
 				&:before {
@@ -129,6 +129,7 @@
 			&.style1 {
 				> .image:before {
 					background-color: _palette(accent1);
+
 				}
 			}
 
@@ -169,7 +170,7 @@
 
 						&:before {
 							background-color: _palette(bg-accent);
-							opacity: 0.35;
+							opacity: 0.75;
 						}
 
 						&:after {

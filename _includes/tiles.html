@@ -2,14 +2,15 @@
 
 {% for post in site.posts limit:site.front-page-posts %}
 	<article class="style{{ forloop.index0 | plus:1 }}">
-		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+		<span class="image fit">
+			{% if post.featured-image %}
+				<img src = "{{ site.url }}{{ site.baseurl }}{{ post.featured-image }}"/>
+			{% else %}
+				<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			{% endif %}
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
-			<div class="content">
-				<p>{{ post.content | strip_html | truncatewords:25  }}</p>
-			</div>
 		</a>
 	</article>
 {% endfor %}
