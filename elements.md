@@ -59,16 +59,16 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 </ol>
 <h3>Icons</h3>
 <ul class="icons">
-<li><a href="#" class="icon style1 fa-twitter"><span class="label">Twitter</span></a></li>
-<li><a href="#" class="icon style1 fa-facebook"><span class="label">Facebook</span></a></li>
-<li><a href="#" class="icon style1 fa-instagram"><span class="label">Instagram</span></a></li>
-<li><a href="#" class="icon style1 fa-github"><span class="label">Github</span></a></li>
+<li><a href="#" class="icon style1 fab fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="#" class="icon style1 fab fa-facebook"><span class="label">Facebook</span></a></li>
+<li><a href="#" class="icon style1 fab fa-instagram"><span class="label">Instagram</span></a></li>
+<li><a href="#" class="icon style1 fab fa-github"><span class="label">Github</span></a></li>
 </ul>
 <ul class="icons">
-<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
-<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
-<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-<li><a href="#" class="icon style2 fa-github"><span class="label">Github</span></a></li>
+<li><a href="#" class="icon style2 fab fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="#" class="icon style2 fab fa-facebook"><span class="label">Facebook</span></a></li>
+<li><a href="#" class="icon style2 fab fa-instagram"><span class="label">Instagram</span></a></li>
+<li><a href="#" class="icon style2 fab fa-github"><span class="label">Github</span></a></li>
 </ul>
 </div>
 </div>
@@ -224,9 +224,9 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 <li><a href="#" class="button fit small">Fit + Small</a></li>
 </ul>
 <ul class="actions">
-<li><a href="#" class="button special icon fa-download">Icon</a></li>
-<li><a href="#" class="button icon fa-upload">Icon</a></li>
-<li><a href="#" class="button icon fa-save">Icon</a></li>
+<li><a href="#" class="button special icon fas fa-download">Icon</a></li>
+<li><a href="#" class="button icon fas fa-upload">Icon</a></li>
+<li><a href="#" class="button icon fas fa-save">Icon</a></li>
 </ul>
 <ul class="actions">
 <li><span class="button special disabled">Disabled</span></li>

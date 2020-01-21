@@ -44,7 +44,6 @@
 			width: 100%;
 			text-align: center;
 			object-fit: cover;
-			
 
 			img {
 				width: 100%;
@@ -58,14 +57,14 @@
 			}
 		}
 
-		&.banner {
+				&.banner {
 
 			img {
 				height: 200px;
 				object-fit: cover;
 			}
 		}
-
+		
 		&.main {
 			display: block;
 			margin: 0 0 (_size(element-margin) * 1.5) 0;

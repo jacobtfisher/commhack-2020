@@ -30,3 +30,11 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+#Collections
+collections:
+  pages:
+    output: true
+    permalink: pages/:path/
+
+

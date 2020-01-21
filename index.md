@@ -4,8 +4,8 @@ title: Hacking Communication Science
 ---
 
 <header>
-<h1>Opening communication science<br />
-ICA 2020 preconference hackathon.</h1>
+<h1 style="line-height:1; margin: 0 0 -.5em 0">Opening communication science</h1> <br>
+<h2 style="line-height:1; color: #9e9e9e"> ICA 2020 preconference hackathon.</h2>
 <p>A two day hands-on workshop to encourage open, non-competitive collaboration across communication subfields utilizing computational and "big data" methods. The hackathon is a collaborative effort between the <a href="http://ica-cm.org/">Computational Methods</a> and <a href ="http://commscience.org/">Communication Science and Biology</a> interest groups of the International Communication Association. During the hackathon, attendees will join teams to collaborate on programming projects and learn from one another. Attendees will also have the opportunity to lead and attend breakout sessions taught by other hackathon attendees. <i>No programming experience</i> is necessary to participate in the hackathon, and we encourage those of all skill levels to attend!</p>
 
 <p><b>Dates:</b> May 20th & May 21st 2020 </p> 
