@@ -46,7 +46,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>Logo</td>
   </tr>
   <tr>
-    <td>Considered an Official Sponsor</td>
+    <td>Considered an official sponsor</td>
     <td></td>
     <td>X</td>
     <td>X</td>
@@ -55,7 +55,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>X</td>
   </tr>
   <tr>
-    <td>Distribute Company-Provided Material/Swag</td>
+    <td>Distribute company-provided material/swag</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -109,7 +109,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>X</td>
   </tr>
   <tr>
-    <td>Verbal thank you</td>
+    <td>Verbal thank you during hackathon intro</td>
     <td></td>
     <td></td>
     <td></td>
@@ -118,7 +118,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>X</td>
   </tr>
   <tr>
-    <td>Social Media Post (during Hackathon)</td>
+    <td>Social media post (during Hackathon)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -127,7 +127,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>X</td>
   </tr>
   <tr>
-    <td>Sponsored Food Event* (+$1000)</td>
+    <td>Sponsored food event* (>$2000)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -136,16 +136,7 @@ We are excited that you or your organization is considering sponsoring the Openi
     <td>X</td>
   </tr>
   <tr>
-    <td>Event Booth* (+$1000)</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>Speaking Time* (+$3500)</td>
+    <td>Speaking time during hackathon* (>$3500)</td>
     <td></td>
     <td></td>
     <td></td>
